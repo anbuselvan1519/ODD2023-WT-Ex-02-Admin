@@ -1,6 +1,6 @@
 # Ex-02-Admin
-## Name: Anbuselvan.S
-## Reference No: 23005959
+## NAME : ANBUSELVAN.S
+## REFERENCE NO : 23005959
 
 # AIM:
 Create a Django website with five users. Two users are to be staff users (including admin) and the other three users are non-staff users.
@@ -30,7 +30,7 @@ Enter the given credentials to login in into django server.
 step 8:
 Add some users according to the aim.
 
-#Output:
+# Output:
 ![image](https://github.com/anbuselvan1519/ODD2023-WT-Ex-02-Admin/assets/139841744/b207eccf-10ab-4b8d-aa09-ec33f25d9cb1)
 
 # Result: 
