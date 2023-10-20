@@ -33,7 +33,7 @@ Add some users according to the aim.
 #Output:
 ![image](https://github.com/anbuselvan1519/ODD2023-WT-Ex-02-Admin/assets/139841744/b207eccf-10ab-4b8d-aa09-ec33f25d9cb1)
 
-#Result: 
+# Result: 
 Hence, The given task is executed successfully.
 
 
